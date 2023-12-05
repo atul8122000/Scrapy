@@ -66,7 +66,7 @@ ITEM_PIPELINES = {
    'justice.pipelines.JusticePipeline': 300,
 }
 
-MONGO_URI = "mongodb+srv://atul:Eya6cxrSZJra9cM@cluster0.wmdzd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+MONGO_URI = "mongodb+srv://:EZJra9cM@cluster0.wmdzd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 MONGO_DATABASE = "US_Justice"
 
 # Enable and configure the AutoThrottle extension (disabled by default)
